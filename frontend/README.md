@@ -1,3 +1,5 @@
+# src/assets/screenshots/ <-- La imagen de las tareas agregadas
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
